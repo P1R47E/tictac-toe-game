@@ -1,2 +1,3 @@
 # tictac-toe-game
-Tictac toe game in react js
+
+a Tictac toe game where u play with a computer on your browser
